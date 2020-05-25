@@ -7,14 +7,12 @@ const Inicio = props => {
             <div id="about" className="container-fluid">
                 <div className="row">
                     <div className="col-sm-8">
-                        <h2>About Company Page</h2>
+                        <h2>Soluções para sua Industria</h2>
                         <br />
                         <h4>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                            enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                            nisi ut aliquip ex ea commodo consequat.
-            </h4>
+                            Alves Automação surgiu com a necessidade do mercado industrial em automatizar
+                            seus processos industriais
+                         </h4>
                         <br />
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -28,7 +26,7 @@ const Inicio = props => {
                             aliquip ex ea commodo consequat.
             </p>
                         <br />
-                        <button className="btn btn-default btn-lg">Get in Touch</button>
+                        <button className="btn btn-default btn-lg">Saiba Mais</button>
                     </div>
                     <div className="col-sm-4">
                         <span className="glyphicon glyphicon-signal logo"></span>

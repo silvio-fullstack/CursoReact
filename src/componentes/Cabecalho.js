@@ -5,20 +5,20 @@ const Cabecalho = (props) => {
   return (
     <div>
       <div className="jumbotron text-center">
-        <h1>Company</h1>
-        <p>We specialize in blablabla</p>
+        <h1>Alves Automação</h1>
+        <p>Especializado em Automação Industrial</p>
         <form>
           <div className="input-group">
             <input
               type="email"
               className="form-control"
               size="50"
-              placeholder="Email Address"
+              placeholder="Endereço de Email"
               required
             />
             <div className="input-group-btn">
               <button type="button" className="btn btn-danger">
-                Subscribe
+                Inscreva-se
               </button>
             </div>
           </div>
